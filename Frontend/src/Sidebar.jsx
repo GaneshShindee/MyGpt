@@ -102,7 +102,7 @@ function Sidebar() {
             </ul>
 
             <div className="sign">
-                <p>By Dhiraj Biradar &hearts;</p>
+                <p>By Ganesh Shinde &hearts;</p>
             </div>
         </section>
     );
