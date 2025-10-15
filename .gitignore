@@ -1,0 +1,1 @@
+-e "frontend/node_modules/\nbackend/node_modules/\nfrontend/.env\nbackend/.env" 
